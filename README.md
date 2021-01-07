@@ -1,1 +1,3 @@
-# Medical-Management-system
+# maven-project
+
+Simple Maven Project
